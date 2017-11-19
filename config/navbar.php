@@ -30,8 +30,6 @@ return [
     ],
 
 
-
-/*
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -57,8 +55,6 @@ return [
             ],
         ],
     ],
-*/
-
 
     /**
      * Callback tracing the current selected menu item base on scriptname

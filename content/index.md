@@ -15,7 +15,7 @@ Presentation
 
 Hej.
 
-![me bild](img/me.jpg)
+![me bild](img/me.jpg){.me-image}
 
 
 Mitt namn är Mohammed Alburhan. Född i Hudiksvall, Hälsingland men uppvuxen i Kristianstad, Skåne.
