@@ -1,10 +1,8 @@
 About this site
 ==============================================
 
-The primary focus of this site is to:
+Kursen syftar till en orientering inom områdena design och användbarhet, specifikt för tillämpningsområdet webb. Kursen har tekniken som utgångspunkt, där olika tekniker introduceras och används för att underlätta webbdesign och användbarhet för webbplatsen med syftet att skapa en korrekt och användarvänlig webbplats.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+[Github](https://github.com/H4MSK1/bth-anax-flat)
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+![design bild](img/design.png)
