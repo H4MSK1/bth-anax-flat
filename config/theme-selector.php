@@ -27,6 +27,24 @@ return [
             ]
         ],
 
+        "separator01" => "------------------------------------------------",
+
+        "vgrid"      => [
+            "title"      => "Vertikalt grid",
+            "class"      => "",
+            "stylesheets" => [
+                "css/vgrid.min.css"
+            ]
+        ],
+
+        "default"   => [
+            "title"      => "Your own selected default theme",
+            "class"      => "",
+            "stylesheets" => [
+                "css/default.min.css"
+            ]
+        ],
+
         "separator1" => "------------------------------------------------",
 
         "light"     =>  [
