@@ -38,6 +38,13 @@ return [
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("grid stuff")
             ],
+
+            "analysis" => [
+                "text"  => t("Analyser"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyser från kmom04"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -76,6 +83,13 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("grid stuff")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analyser"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analyser från kmom04"),
+                "mark-if-parent" => true,
             ],
         ],
     ],
