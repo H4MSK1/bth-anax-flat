@@ -86,3 +86,7 @@ Den ljusgråa bakgrunden lyfter verkligen upp den orange färgen och ger den ett
 #### Typsnitt
 
 Typsnitten på Biluppgifter för rubriker är Contrail One vilket är sans-serif. Kollar vi på brödtexten så gäller typsnittet Arial som presenteras i varierande tjocklek och storlek på diverse delar av webbplatsen.
+
+
+#### Gruppmedlemmar
+- Endast jag.

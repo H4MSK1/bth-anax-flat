@@ -40,10 +40,22 @@ return [
             ],
 
             "analysis" => [
-                "text"  => t("Analyser"),
+                "text"  => t("Analysis"),
                 "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("Analyser från kmom04"),
+                "title" => t("kmom04"),
                 "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("kmom04"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("kmom04"),
             ],
         ],
     ],
@@ -90,6 +102,18 @@ return [
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("Analyser från kmom04"),
                 "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("kmom04"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("kmom04"),
             ],
         ],
     ],
